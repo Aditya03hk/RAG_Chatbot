@@ -1,0 +1,13 @@
+   streamlit==1.31.0
+   pandas==2.0.3
+   plotly==5.18.0
+   requests==2.31.0
+   matplotlib==3.7.2
+
+
+streamlit>=1.25.0
+pandas>=2.0.0
+plotly>=5.15.0
+langchain>=0.0.267
+langchain-community>=0.0.6
+matplotlib>=3.7.0

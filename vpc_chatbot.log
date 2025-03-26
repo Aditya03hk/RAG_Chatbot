@@ -1,0 +1,525 @@
+2025-03-19 09:50:37,150 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs.txt
+2025-03-19 09:50:37,152 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs.txt'
+2025-03-19 09:50:46,606 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs.txt
+2025-03-19 09:50:46,607 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs.txt'
+2025-03-19 09:52:30,634 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs.txt
+2025-03-19 09:52:30,636 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs.txt'
+2025-03-19 09:52:40,051 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs.txt
+2025-03-19 09:52:40,052 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs.txt'
+2025-03-19 09:58:08,721 - log_processor - INFO - Loading logs from ./logs
+2025-03-19 09:58:08,723 - log_processor - ERROR - Error loading logs: [WinError 3] The system cannot find the path specified: './logs'
+2025-03-19 10:03:41,434 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs.txt
+2025-03-19 10:03:41,437 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs.txt'
+2025-03-19 10:03:53,080 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs.txt
+2025-03-19 10:03:53,082 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs.txt'
+2025-03-19 10:03:54,054 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs.txt
+2025-03-19 10:03:54,056 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs.txt'
+2025-03-19 10:03:55,468 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs.txt
+2025-03-19 10:03:55,472 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs.txt'
+2025-03-19 10:04:15,618 - log_processor - INFO - Loading logs from vpc_chatbot.log
+2025-03-19 10:04:15,620 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'vpc_chatbot.log'
+2025-03-19 10:04:34,751 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-19 10:04:34,754 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_chatbot.log'
+2025-03-19 10:15:38,767 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-19 10:15:38,779 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs_large.log'
+2025-03-19 10:15:43,364 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-19 10:15:43,367 - log_processor - ERROR - Error loading logs: [WinError 267] The directory name is invalid: 'C:\\Users\\adity\\PycharmProjects\\LOG_Chatbot\\vpc_logs_large.log'
+2025-03-19 10:17:33,916 - log_processor - INFO - Loading logs from "C:\Users\adity\Downloads\vpc_logs_large.log"
+2025-03-19 10:17:33,918 - log_processor - ERROR - Error loading logs: [WinError 123] The filename, directory name, or volume label syntax is incorrect: '"C:\\Users\\adity\\Downloads\\vpc_logs_large.log"'
+2025-03-19 10:17:48,400 - log_processor - INFO - Loading logs from r"C:\Users\adity\Downloads\vpc_logs_large.log"
+2025-03-19 10:17:48,402 - log_processor - ERROR - Error loading logs: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'r"C:\\Users\\adity\\Downloads\\vpc_logs_large.log"'
+2025-03-19 10:17:59,697 - log_processor - INFO - Loading logs from r'C:\Users\adity\Downloads\vpc_logs_large.log'
+2025-03-19 10:17:59,698 - log_processor - ERROR - Error loading logs: [WinError 123] The filename, directory name, or volume label syntax is incorrect: "r'C:\\Users\\adity\\Downloads\\vpc_logs_large.log'"
+2025-03-19 10:22:09,392 - log_processor - INFO - Loading logs from r'C:\Users\adity\Downloads\vpc_logs_large.log'
+2025-03-19 10:22:09,393 - log_processor - ERROR - Path does not exist: r'C:\Users\adity\Downloads\vpc_logs_large.log'
+2025-03-19 10:22:12,499 - log_processor - INFO - Loading logs from r'C:\Users\adity\Downloads\vpc_logs_large.log'
+2025-03-19 10:22:12,501 - log_processor - ERROR - Path does not exist: r'C:\Users\adity\Downloads\vpc_logs_large.log'
+2025-03-19 10:22:55,207 - log_processor - INFO - Loading logs from "C:\Users\adity\Downloads\vpc_logs.log"
+2025-03-19 10:22:55,211 - log_processor - ERROR - Path does not exist: "C:\Users\adity\Downloads\vpc_logs.log"
+2025-03-19 10:23:05,583 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-19 10:23:05,604 - log_processor - INFO - Loaded 5 log entries
+2025-03-19 10:23:15,743 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-19 10:23:15,751 - log_processor - INFO - Loaded 5 log entries
+2025-03-19 10:24:44,107 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:24:44,207 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:24:52,344 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:24:52,435 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:24:55,357 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:24:55,465 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:29:22,224 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:29:22,274 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:29:29,651 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:29:29,738 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:32:26,278 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:32:26,427 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:32:47,214 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:32:47,313 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:32:51,782 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:32:51,876 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:33:29,357 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:33:29,409 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:41:32,871 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:41:32,924 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:46:30,566 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:46:30,664 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:46:39,180 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:46:39,276 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:46:41,274 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:46:41,353 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:46:46,550 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:46:46,633 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:47:26,144 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:47:26,179 - log_processor - INFO - Loaded 3000 log entries
+2025-03-19 10:47:34,678 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs_large.log
+2025-03-19 10:47:34,776 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 09:50:12,566 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 09:50:12,651 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 09:56:50,516 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 09:56:50,521 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 09:57:12,206 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 09:57:12,232 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:01:04,207 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:01:04,213 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:01:15,953 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:01:15,959 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:01:26,462 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:01:26,472 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:01:44,381 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:01:44,386 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:08:49,111 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:08:49,164 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:08:58,520 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:08:58,526 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:09:01,456 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:09:01,461 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:09:03,234 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:09:03,238 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:09:06,957 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:09:06,959 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:09:14,314 - log_processor - INFO - Loading logs from C:\Users\adity\Downloads\vpc_logs.log
+2025-03-20 10:09:14,320 - log_processor - INFO - Loaded 5 log entries
+2025-03-20 10:21:28,771 - log_processor - INFO - Loading logs from ./logs
+2025-03-20 10:21:28,772 - log_processor - ERROR - Path does not exist: ./logs
+2025-03-20 10:21:28,777 - log_processor - INFO - Loading logs from ./logs
+2025-03-20 10:21:28,777 - log_processor - ERROR - Path does not exist: ./logs
+2025-03-20 10:22:15,915 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:22:16,013 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:22:25,595 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:22:25,699 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:22:29,376 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:22:29,586 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:22:36,873 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:22:36,969 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:22:41,216 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:22:41,301 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:26:31,812 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:26:31,851 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:34:17,459 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:34:17,498 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:34:29,985 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:34:30,072 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:34:50,698 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:34:50,782 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:34:56,721 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:34:56,879 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:35:15,607 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:35:15,705 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:35:26,241 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:35:26,286 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:38:00,563 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:38:00,662 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:38:09,257 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:38:09,362 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:38:19,449 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:38:19,539 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:38:30,780 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:38:30,879 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:38:35,620 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:38:35,724 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:38:40,495 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:38:40,602 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 10:38:41,913 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 10:38:42,021 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 11:00:28,177 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\logs
+2025-03-20 11:00:28,181 - log_processor - INFO - Loaded 0 log entries
+2025-03-20 11:00:36,963 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\logs
+2025-03-20 11:00:36,966 - log_processor - INFO - Loaded 0 log entries
+2025-03-20 11:00:44,343 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\logs
+2025-03-20 11:00:44,348 - log_processor - INFO - Loaded 0 log entries
+2025-03-20 11:00:48,886 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\logs
+2025-03-20 11:00:48,890 - log_processor - INFO - Loaded 0 log entries
+2025-03-20 11:01:40,439 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:01:40,486 - log_processor - INFO - Loaded 151 log entries
+2025-03-20 11:02:41,660 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:02:41,695 - log_processor - INFO - Loaded 153 log entries
+2025-03-20 11:03:02,942 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:03:02,975 - log_processor - INFO - Loaded 155 log entries
+2025-03-20 11:03:56,471 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:03:56,510 - log_processor - INFO - Loaded 157 log entries
+2025-03-20 11:04:44,955 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:04:44,994 - log_processor - INFO - Loaded 159 log entries
+2025-03-20 11:05:40,091 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:05:40,130 - log_processor - INFO - Loaded 161 log entries
+2025-03-20 11:09:39,235 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:09:39,276 - log_processor - INFO - Loaded 163 log entries
+2025-03-20 11:13:21,846 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:13:21,888 - log_processor - INFO - Loaded 165 log entries
+2025-03-20 11:14:49,766 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:14:49,796 - log_processor - INFO - Loaded 167 log entries
+2025-03-20 11:15:39,097 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:15:39,132 - log_processor - INFO - Loaded 169 log entries
+2025-03-20 11:16:24,585 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:16:24,619 - log_processor - INFO - Loaded 171 log entries
+2025-03-20 11:17:16,358 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:17:16,390 - log_processor - INFO - Loaded 173 log entries
+2025-03-20 11:17:29,083 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:17:29,118 - log_processor - INFO - Loaded 175 log entries
+2025-03-20 11:21:22,119 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:21:22,160 - log_processor - INFO - Loaded 177 log entries
+2025-03-20 11:21:40,090 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:22:27,221 - llm_integration - ERROR - Error calling LLM via LangChain: 'str' object has no attribute 'get'
+2025-03-20 11:24:28,658 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:24:28,703 - log_processor - INFO - Loaded 181 log entries
+2025-03-20 11:24:37,915 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:27:39,372 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:31:55,636 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:31:55,689 - log_processor - INFO - Loaded 185 log entries
+2025-03-20 11:32:12,234 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:34:28,541 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:34:28,581 - log_processor - INFO - Loaded 188 log entries
+2025-03-20 11:34:55,081 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:36:39,719 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:36:39,760 - log_processor - INFO - Loaded 191 log entries
+2025-03-20 11:36:54,919 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:37:06,645 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:37:06,677 - log_processor - INFO - Loaded 194 log entries
+2025-03-20 11:37:27,946 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:39:28,427 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_chatbot.log
+2025-03-20 11:39:28,472 - log_processor - INFO - Loaded 197 log entries
+2025-03-20 11:40:17,235 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:42:25,928 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:43:57,576 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 11:43:57,662 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 11:46:09,973 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 11:48:07,190 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:09:04,827 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:09:04,942 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:09:51,442 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:16:59,401 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:16:59,522 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:17:08,287 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:17:08,457 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:17:42,516 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:18:07,798 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:18:07,909 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:18:13,198 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:18:13,291 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:21:01,341 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:25:53,300 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:25:53,389 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:25:56,997 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:25:57,060 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:26:13,067 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:26:21,948 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:26:22,077 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:26:26,436 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:26:26,543 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:26:39,015 - llm_integration - ERROR - Error calling LLM via LangChain: 2 validation errors for AIMessage
+content.str
+  Input should be a valid string [type=string_type, input_value={'query': 'Hiii', 'contex... found for your query.'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value={'query': 'Hiii', 'contex... found for your query.'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/list_type
+2025-03-20 14:26:47,787 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:27:06,064 - llm_integration - ERROR - Error calling LLM via LangChain: 2 validation errors for AIMessage
+content.str
+  Input should be a valid string [type=string_type, input_value={'query': 'How many logs ... found for your query."}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value={'query': 'How many logs ... found for your query."}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/list_type
+2025-03-20 14:28:24,486 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:28:24,538 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:28:25,731 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:28:25,780 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:28:47,136 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:36:11,531 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:36:11,629 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:36:12,984 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:36:13,098 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:37:54,507 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:41:21,356 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:41:21,461 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:41:28,641 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:41:28,735 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:41:31,285 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:41:31,371 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:41:32,244 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:41:32,358 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:41:33,391 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:41:33,505 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:41:39,437 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:41:39,524 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:41:53,347 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:42:24,934 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:43:08,389 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:47:50,786 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:47:50,967 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:47:52,284 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:47:52,443 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:47:57,962 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 14:47:58,058 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 14:49:10,824 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:49:54,040 - log_processor - INFO - No specific matches found for query: What is the most commonly used protocol in the logs?, returning sample logs
+2025-03-20 14:50:38,820 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:53:33,620 - log_processor - INFO - No specific matches found for query: Show all logs where the protocol is UDP and the action is REJECT., returning sample logs
+2025-03-20 14:53:52,907 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 14:55:16,005 - log_processor - INFO - No specific matches found for query: Show the top 5 logs with the highest number of packets.
+
+, returning sample logs
+2025-03-20 14:55:44,017 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 15:01:01,485 - log_processor - INFO - No specific matches found for query: Show all logs where the number of bytes transferred is extremely low., returning sample logs
+2025-03-20 15:02:00,658 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 15:03:04,714 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 15:03:04,802 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 15:03:08,037 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 15:03:08,088 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 15:03:12,140 - log_processor - INFO - No specific matches found for query: Show all logs where the number of bytes transferred is extremely low., returning sample logs
+2025-03-20 15:03:34,948 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 15:04:46,665 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 15:04:46,738 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 15:04:47,740 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 15:04:47,781 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 15:04:50,683 - log_processor - INFO - No specific matches found for query: Apart from VPC logs is there any other logs present? If say whih are those, returning sample logs
+2025-03-20 15:05:06,872 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 15:06:19,548 - log_processor - INFO - No specific matches found for query: Ohh than how does the VPC logs looks like?, returning sample logs
+2025-03-20 15:06:39,117 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 15:12:15,436 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 17:46:22,975 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 17:46:23,085 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 17:46:25,991 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 17:46:26,082 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 17:46:37,513 - log_processor - INFO - No specific matches found for query: Show all logs where the number of bytes transferred is extremely low., returning sample logs
+2025-03-20 17:47:09,103 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 18:00:28,729 - log_processor - INFO - No specific matches found for query: Show all logs where the destination port is 80 (HTTP)., returning sample logs
+2025-03-20 18:01:32,631 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 18:02:33,080 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 18:02:33,231 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 18:02:54,808 - log_processor - INFO - No specific matches found for query: What are the top 5 most frequently used source ports?, returning sample logs
+2025-03-20 18:03:41,945 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 18:05:41,365 - log_processor - INFO - No specific matches found for query: Ok How many time these source ports are used?, returning sample logs
+2025-03-20 18:06:32,143 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-20 18:09:10,215 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 18:09:10,371 - log_processor - INFO - Loaded 3000 log entries
+2025-03-20 18:09:41,644 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-20 18:09:41,742 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:15:04,134 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:15:04,285 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:15:06,148 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:15:06,218 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:15:25,273 - log_processor - INFO - No specific matches found for query: Show all logs where the same source IP accessed multiple destination IPs., returning sample logs
+2025-03-21 09:15:52,818 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 09:16:37,510 - log_processor - INFO - No specific matches found for query: Show all logs where the source port is greater than 60000, returning sample logs
+2025-03-21 09:16:54,662 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 09:17:50,998 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:17:51,045 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:17:52,517 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:17:52,547 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:17:55,874 - log_processor - INFO - No specific matches found for query: Show all logs where the source port is greater than 60000, returning sample logs
+2025-03-21 09:17:58,549 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 09:18:19,009 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:18:19,043 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:18:19,936 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:18:19,964 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:18:40,816 - log_processor - INFO - No specific matches found for query: What are the total number of log entries?, returning sample logs
+2025-03-21 09:18:56,968 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 09:19:16,765 - log_processor - INFO - No specific matches found for query: Which are those?, returning sample logs
+2025-03-21 09:19:32,978 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 09:21:11,162 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:21:11,194 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:21:11,833 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:21:11,867 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:36:20,534 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:36:20,614 - log_processor - INFO - Loaded 3000 new log entries. Total logs: 3000
+2025-03-21 09:36:21,837 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:36:21,885 - log_processor - INFO - Loaded 3000 new log entries. Total logs: 3000
+2025-03-21 09:36:49,586 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 09:38:26,394 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 09:38:51,643 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:38:51,777 - log_processor - INFO - Loaded 3000 new log entries. Total logs: 3000
+2025-03-21 09:38:52,527 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:38:52,615 - log_processor - INFO - Loaded 3000 new log entries. Total logs: 3000
+2025-03-21 09:39:05,173 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 09:54:42,289 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:54:42,359 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:54:44,001 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:54:44,033 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:57:57,717 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 09:57:57,744 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 09:58:19,900 - log_processor - INFO - No specific matches found for query: How many logs have a "REJECT" action?, returning sample logs
+2025-03-21 09:58:46,849 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 10:32:00,351 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:32:00,474 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:32:01,421 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:32:01,481 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:32:04,914 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:32:04,959 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:32:30,736 - log_processor - INFO - No specific matches found for query: Give me the types of logs present, returning sample logs
+2025-03-21 10:33:05,681 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 10:33:46,121 - log_processor - INFO - No specific matches found for query: write a python for adding two numbers, returning sample logs
+2025-03-21 10:34:09,962 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 10:34:30,713 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:34:30,754 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:34:31,940 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:34:31,972 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:34:34,768 - log_processor - INFO - No specific matches found for query: write a python for adding two numbers, returning sample logs
+2025-03-21 10:34:37,270 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 10:35:40,656 - log_processor - INFO - No specific matches found for query: name the types of logs present in AWS
+, returning sample logs
+2025-03-21 10:36:06,497 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 10:37:32,557 - log_processor - INFO - No specific matches found for query: write a python for multiply two numbers, returning sample logs
+2025-03-21 10:38:18,108 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 10:46:48,850 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:46:48,941 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:46:49,901 - grafana_integration - INFO - Initialized Grafana metrics exporter with influxdb backend
+2025-03-21 10:46:49,902 - streamlit_app - INFO - Chatbot components initialized successfully
+2025-03-21 10:48:07,317 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:48:07,355 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:48:08,259 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:48:08,330 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:49:14,023 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 10:49:44,275 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:49:44,384 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:49:45,236 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:49:45,359 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:50:44,710 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-21 10:51:01,772 - llm_integration - ERROR - Error calling LLM via LangChain: peer closed connection without sending complete message body (incomplete chunked read)
+2025-03-21 10:51:01,774 - llm_integration - ERROR - Error calling LLM via LangChain: peer closed connection without sending complete message body (incomplete chunked read)
+2025-03-21 10:51:54,492 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:51:54,538 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:51:56,311 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-21 10:51:56,353 - log_processor - INFO - Loaded 3000 log entries
+2025-03-21 10:52:39,595 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 09:57:11,008 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 09:57:11,201 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 09:57:12,424 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 09:57:12,557 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 09:57:31,814 - log_processor - INFO - No specific matches found for query: What are the logs present, returning sample logs
+2025-03-24 09:58:33,341 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 10:20:01,007 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 10:20:01,084 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 10:20:02,117 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 10:20:02,162 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 10:20:07,109 - log_processor - INFO - No specific matches found for query: How are you, returning sample logs
+2025-03-24 10:20:13,975 - log_processor - INFO - No specific matches found for query: do u know about logs, returning sample logs
+2025-03-24 10:20:13,976 - llm_integration - INFO - Processing as new question
+2025-03-24 10:20:36,782 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 10:21:00,117 - llm_integration - ERROR - Error calling LLM via LangChain: One input key expected got ['query', 'context']
+2025-03-24 10:47:18,866 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 10:47:18,932 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 10:47:20,157 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 10:47:20,196 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 10:47:52,844 - log_processor - INFO - No specific matches found for query: Are there any logs where the same source and destination IPs are the same?, returning sample logs
+2025-03-24 10:47:52,844 - llm_integration - INFO - Processing query: Are there any logs where the same source and destination IPs are the same? (follow-up: False)
+2025-03-24 10:48:20,224 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 10:49:40,819 - log_processor - INFO - No specific matches found for query: Show all logs where the source IP is 177.112.34.119., returning sample logs
+2025-03-24 10:49:40,820 - llm_integration - INFO - Processing query: Show all logs where the source IP is 177.112.34.119. (follow-up: False)
+2025-03-24 10:50:01,177 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 10:51:02,168 - log_processor - INFO - No specific matches found for query: Ok 
+can u explain me the above log, returning sample logs
+2025-03-24 10:51:02,169 - llm_integration - INFO - Processing query: Ok 
+can u explain me the above log (follow-up: False)
+2025-03-24 10:51:25,862 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 10:52:00,241 - log_processor - INFO - No specific matches found for query: Ohh thats nice, returning sample logs
+2025-03-24 10:52:00,241 - llm_integration - INFO - Processing query: Ohh thats nice (follow-up: True)
+2025-03-24 10:52:32,807 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 10:56:23,154 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 10:56:23,247 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 10:56:24,387 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 10:56:24,439 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 10:56:26,308 - log_processor - INFO - No specific matches found for query: How many logs have an "ACCEPT" action?, returning sample logs
+2025-03-24 10:56:26,309 - llm_integration - INFO - Processing query: How many logs have an "ACCEPT" action? (follow-up: False)
+2025-03-24 10:56:48,227 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 10:57:58,447 - log_processor - INFO - No specific matches found for query: Which are those, returning sample logs
+2025-03-24 10:57:58,448 - llm_integration - INFO - Processing query: Which are those (follow-up: True)
+2025-03-24 10:58:18,385 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 11:03:16,772 - log_processor - INFO - No specific matches found for query: what their adresss, returning sample logs
+2025-03-24 11:03:16,774 - llm_integration - INFO - Processing query: what their adresss (follow-up: False)
+2025-03-24 11:03:37,077 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 11:11:10,957 - log_processor - INFO - No specific matches found for query: What are the top 5 most frequently occurring source IP addresses?, returning sample logs
+2025-03-24 11:11:10,958 - llm_integration - INFO - Processing query: What are the top 5 most frequently occurring source IP addresses? (follow-up: False)
+2025-03-24 11:11:38,214 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 11:35:34,467 - log_processor - INFO - No specific matches found for query: What is the average session duration in the logs?, returning sample logs
+2025-03-24 11:35:34,481 - llm_integration - INFO - Processing query: What is the average session duration in the logs? (follow-up: False)
+2025-03-24 11:36:08,220 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 12:01:53,349 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 12:01:54,815 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 12:01:55,543 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 12:01:55,680 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 12:02:03,803 - log_processor - INFO - No specific matches found for query: What is the average session duration in the logs?, returning sample logs
+2025-03-24 12:02:03,805 - llm_integration - INFO - Processing query: What is the average session duration in the logs? (follow-up: False)
+2025-03-24 12:02:47,437 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 12:06:31,710 - log_processor - INFO - No specific matches found for query: Only 3 logs?, returning sample logs
+2025-03-24 12:06:31,717 - llm_integration - INFO - Processing query: Only 3 logs? (follow-up: False)
+2025-03-24 12:07:39,023 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 12:14:55,280 - log_processor - INFO - No specific matches found for query: i think there are many logs
+calculate for all the logs, returning sample logs
+2025-03-24 12:14:55,284 - llm_integration - INFO - Processing query: i think there are many logs
+calculate for all the logs (follow-up: False)
+2025-03-24 12:15:48,576 - log_processor - INFO - No specific matches found for query: i think there are many logs calculate for all the logs, returning sample logs
+2025-03-24 12:15:48,578 - llm_integration - INFO - Processing query: i think there are many logs calculate for all the logs (follow-up: False)
+2025-03-24 12:16:56,286 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 12:18:51,138 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 12:27:44,039 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 12:27:44,237 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 12:27:45,592 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 12:27:45,734 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 12:27:55,583 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 12:27:55,715 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 12:28:00,099 - log_processor - INFO - No specific matches found for query: What is the average session duration in the logs?, returning sample logs
+2025-03-24 12:28:00,106 - llm_integration - INFO - Processing query: What is the average session duration in the logs? (follow-up: False)
+2025-03-24 12:28:35,994 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 12:36:58,268 - log_processor - INFO - No specific matches found for query: Are there any logs where the same source and destination IPs are the same?, returning sample logs
+2025-03-24 12:36:58,273 - llm_integration - INFO - Processing query: Are there any logs where the same source and destination IPs are the same? (follow-up: False)
+2025-03-24 12:38:19,811 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 12:50:21,406 - log_processor - INFO - No specific matches found for query: Identify any unusual spikes in rejected connections., returning sample logs
+2025-03-24 12:50:21,417 - llm_integration - INFO - Processing query: Identify any unusual spikes in rejected connections. (follow-up: False)
+2025-03-24 12:50:51,565 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 15:28:19,036 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 15:28:19,171 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 15:28:23,243 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 15:28:23,343 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 15:28:24,332 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 15:28:24,405 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 15:28:28,202 - log_processor - INFO - No specific matches found for query: Hiii, returning sample logs
+2025-03-24 15:28:28,204 - llm_integration - INFO - Processing query: Hiii (follow-up: False)
+2025-03-24 15:29:07,795 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-24 15:40:24,391 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 15:40:24,507 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 15:40:38,894 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 15:40:38,951 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 16:03:36,924 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 16:03:37,012 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 16:32:06,485 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 16:32:06,667 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 16:32:07,464 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 16:32:07,549 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 16:32:10,607 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-24 16:32:10,637 - log_processor - INFO - Loaded 3000 log entries
+2025-03-24 16:32:45,832 - log_processor - INFO - No specific matches found for query: What is the average session duration in the logs?, returning sample logs
+2025-03-24 16:32:45,833 - llm_integration - INFO - Processing query: What is the average session duration in the logs? (follow-up: False)
+2025-03-24 16:33:07,550 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-25 09:53:52,475 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-25 09:53:52,583 - log_processor - INFO - Loaded 3000 log entries
+2025-03-25 09:53:54,451 - log_processor - INFO - Loading logs from C:\Users\adity\PycharmProjects\LOG_Chatbot\vpc_logs_large.log
+2025-03-25 09:53:54,479 - log_processor - INFO - Loaded 3000 log entries
+2025-03-25 09:54:15,793 - log_processor - INFO - No specific matches found for query: Calculate the ratio of ACCEPTED vs REJECTED connections, returning sample logs
+2025-03-25 09:54:15,794 - llm_integration - INFO - Processing query: Calculate the ratio of ACCEPTED vs REJECTED connections (follow-up: False)
+2025-03-25 09:54:41,752 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-25 09:56:00,718 - log_processor - INFO - No specific matches found for query: Calculate the average session duration for each protocol and compare it with historical data., returning sample logs
+2025-03-25 09:56:00,719 - llm_integration - INFO - Processing query: Calculate the average session duration for each protocol and compare it with historical data. (follow-up: True)
+2025-03-25 09:56:25,437 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-25 09:58:34,798 - log_processor - INFO - No specific matches found for query: Identify peak traffic hours by analyzing logs based on timestamp frequency., returning sample logs
+2025-03-25 09:58:34,800 - llm_integration - INFO - Processing query: Identify peak traffic hours by analyzing logs based on timestamp frequency. (follow-up: False)
+2025-03-25 09:59:00,472 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
